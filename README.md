@@ -1,1 +1,1 @@
-# StrukturData-Teori
+# StrukturData-Praktik
